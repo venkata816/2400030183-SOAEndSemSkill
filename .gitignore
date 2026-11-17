@@ -1,0 +1,23 @@
+# Compiled class files
+target/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+*.sts4-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
